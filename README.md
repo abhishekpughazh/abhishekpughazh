@@ -32,9 +32,12 @@
 <a href="https://open.spotify.com/artist/0W6yV529ajj6imwa7W7aZZ" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 <p align="center"> 
-- I've had the privilege of teaching Python, SQL & Data Science essentials to over 85,000 students on Udemy. <br>
+- Won in over 7 Paper Presentations & 5 Project Fests across India. <br>
+- <a href="https://www.instagram.com/p/BzxbKtyARBR/">Winner (Electrical Stream)</a> in the ”Design Your Destiny” project fest held by <a href="https://caddcentre.com/">CADD India</a>. <br>
+- I've had the privilege of teaching Python, SQL & Data Science essentials to over 85,000 students on <a href="https://www.udemy.com/"> Udemy</a>. <br>
 - I've been dabbling around the world of Music since I was 12. I can sing and I fancy the guitar. <br>
-- I'm a bit of a Magician. Not the "I can make you disappear" kind but "I have a few good tricks" kind.
+- I'm a bit of a Magician. Not the "I can make you disappear" kind but "I have a few good tricks" kind. <br>
+- Secured 25th All-India-Rank in the National Creativity Aptitude Test (2019).
 </p>
   
 <br>
